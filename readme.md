@@ -75,7 +75,7 @@ Your small help goes a long way. :heart:
 </p>
 
 
-# Features
+# Feature
 
 - [GitHub Stats Card](#github-stats-card)
 - [GitHub Extra Pins](#github-extra-pins)
